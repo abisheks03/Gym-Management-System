@@ -19,3 +19,8 @@ Trainer Management
 * Dashboard: An admin dashboard providing an overview of gym members, trainer details.
 * Member Management: Admins can add, edit, or remove members and view detailed member profiles.
 * Trainer Management: Add, edit, or remove trainer profiles and manage their schedules.
+
+# Screenshots
+![G1](https://github.com/user-attachments/assets/2e1dc062-61d3-4567-b074-76fe9b813f2c)
+![G2](https://github.com/user-attachments/assets/437c3dc7-a81b-417a-8328-e101a03dfc95)
+![G3](https://github.com/user-attachments/assets/25c93f26-5410-4bd9-9e7c-d91a29886db9)
